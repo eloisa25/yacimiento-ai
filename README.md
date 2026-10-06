@@ -1,6 +1,7 @@
 
 🛢️ YACIMIENTO AI
-![YACIMIENTO AI](Portada.PNG)
+
+![YACIMIENTO AI](portada.PNG)
 Sistema inteligente para el análisis y monitoreo de pozos
 
 YACIMIENTO AI es un prototipo desarrollado con Python, Pandas y Streamlit, orientado al análisis de datos históricos de pozos y a la identificación de situaciones que requieren atención.
